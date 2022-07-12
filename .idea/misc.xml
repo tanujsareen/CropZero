@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1095" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/drawable/texture.xml" value="0.168" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/layout/activity_second_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/layout/crop_image_activity.xml" value="0.23802083333333332" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/layout/crop_image_view.xml" value="0.23802083333333332" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/menu/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Tanuj/Project/ImageCrop/CropPoc/app/src/main/res/menu/crop_image_menu.xml" value="0.23802083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
